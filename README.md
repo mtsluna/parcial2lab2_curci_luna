@@ -10,8 +10,7 @@
  ## Preguntas
  
 1. **¿Qué es un clase "sealed"?**
-> Asi como indica su nombre, es una clase a la cual se restringe su ámbito de herencia, se la utiliza a traves de la 
-construccion sintactica sealed.. En otras palabras evita que se pueda heredar de esa clase a otra. 
+> Una sealed class o clase sellada es aquella de la cual no podemos heredar. Lo que quiere decir que no podemos implementara en otras clases para tener acceso a sus miembros. 
 
 2. **¿Cuáles son los operadores de una expresión relacional?**
 > Los operadores relacionales son:
